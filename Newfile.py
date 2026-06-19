@@ -49,3 +49,4 @@ if data is None:
 
 else:
     print(result)
+    print("Just like that")
